@@ -1,7 +1,6 @@
 [book]
 authors = ["Matéo Reymond"]
 language = "en"
-multilingual = false
 src = "docs"
 title = "KernOS Documentation"
 
